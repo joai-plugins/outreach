@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "joai-outreach": {
+      "url": "https://cortex.joai.ai/mcp/apps/outreach"
+    }
+  }
+}
